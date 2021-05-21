@@ -1,3 +1,6 @@
+Changes:
+-> Check Error ErrUnrecoverable in retry
+
 # gocraft/work v2
 
 [![GoDoc](https://godoc.org/github.com/taylorchu/work?status.png)](https://godoc.org/github.com/taylorchu/work)
